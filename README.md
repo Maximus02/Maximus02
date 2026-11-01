@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gobba</h1>
-<h3 align="center">A Passionate Game Developer</h3>
+
+
+## 🚀 About Me
+I'm an aspiring game developer
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Im+a+Game+Developer;Always+learning+more)](https://git.io/typing-svg)
 
