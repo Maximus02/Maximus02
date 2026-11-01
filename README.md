@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gobba</h1>
 <h3 align="center">A Passionate Game Developer</h3>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Im+a+Game+Developer;Always+learning+more)](https://git.io/typing-svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmed-gobba-a33220244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-gobba-a33220244/" height="30" width="40" /></a>
